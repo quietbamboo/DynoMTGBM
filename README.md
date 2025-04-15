@@ -83,17 +83,6 @@ df_multi_tasks.json → data_process/dataset/
 
 ---
 
-## ✒️ Authors
-
-- Chengming Ji  
-- Zixin Chen  
-- Zeming Liu  
-- Huanliang Xu  
-- Zhongli Cui *(Corresponding author)*  
-- Junxian Huang *(Corresponding author)*  
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
